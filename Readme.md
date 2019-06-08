@@ -20,6 +20,6 @@
 * # EXPOSE 4200
 
 ### set extanal in docker allow all
---host 0.0.0.0
+* --host 0.0.0.0
 
-# CMD ng serve --host 0.0.0.0
+### CMD ng serve --host 0.0.0.0
